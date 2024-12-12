@@ -116,7 +116,7 @@
 				)
 			)
 		)
-		(symbol "amplifiers:1-0000529"
+		(symbol "amplifiers:1-0001650"
 			(pin_names
 				(offset 0.127)
 			)
@@ -132,7 +132,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "1-0000529"
+			(property "Value" "1-0001650"
 				(at 1.905 -5.08 0)
 				(effects
 					(font
@@ -142,7 +142,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "amplifiers:1-0000529"
+			(property "Footprint" "amplifiers:1-0001650"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -160,7 +160,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+			(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 				(at 4.445 0 0)
 				(effects
 					(font
@@ -169,7 +169,7 @@
 					(hide yes)
 				)
 			)
-			(property "Internal Part Number" "1-0000529"
+			(property "Internal Part Number" "1-0001650"
 				(at 4.445 0 0)
 				(effects
 					(font
@@ -187,7 +187,7 @@
 					(hide yes)
 				)
 			)
-			(property "PValue" "LMC648"
+			(property "PValue" "TL972IP"
 				(at 2.54 0 90)
 				(effects
 					(font
@@ -203,7 +203,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "IC CMOS 2 CIRCUIT 8DIP"
+			(property "ki_keywords" "IC OPAMP GP 2 CIRCUIT 8DIP"
 				(at 0 0 0)
 				(effects
 					(font
@@ -212,7 +212,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "1-0000529_1_1"
+			(symbol "1-0001650_1_1"
 				(polyline
 					(pts
 						(xy -3.81 5.08) (xy 6.35 0) (xy -3.81 -5.08) (xy -3.81 5.08)
@@ -280,7 +280,7 @@
 					)
 				)
 			)
-			(symbol "1-0000529_2_1"
+			(symbol "1-0001650_2_1"
 				(polyline
 					(pts
 						(xy -3.81 5.08) (xy 6.35 0) (xy -3.81 -5.08) (xy -3.81 5.08)
@@ -348,7 +348,7 @@
 					)
 				)
 			)
-			(symbol "1-0000529_3_1"
+			(symbol "1-0001650_3_1"
 				(rectangle
 					(start -1.27 3.81)
 					(end 1.27 -3.81)
@@ -3031,7 +3031,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 138.43 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3040,14 +3040,14 @@
 		(dnp no)
 		(uuid "24ed465d-9646-457d-a60c-03a40dea6eef")
 		(property "Reference" "U2"
-			(at 136.906 58.42 0)
+			(at 140.97 59.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 140.335 71.12 0)
 			(effects
 				(font
@@ -3057,7 +3057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 143.51 66.04 0)
 			(effects
 				(font
@@ -3075,7 +3075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 142.875 66.04 0)
 			(effects
 				(font
@@ -3084,7 +3084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 142.875 66.04 0)
 			(effects
 				(font
@@ -3102,8 +3102,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 138.938 60.198 0)
+		(property "PValue" "TL972IP"
+			(at 143.002 61.722 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3884,7 +3884,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 73.66 86.36 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -3893,14 +3893,14 @@
 		(dnp no)
 		(uuid "58475eb7-c13e-4843-b988-574a3cf0fa92")
 		(property "Reference" "U1"
-			(at 72.898 79.248 0)
+			(at 75.946 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 75.565 91.44 0)
 			(effects
 				(font
@@ -3910,7 +3910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 78.74 86.36 0)
 			(effects
 				(font
@@ -3928,7 +3928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 78.105 86.36 0)
 			(effects
 				(font
@@ -3937,7 +3937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 78.105 86.36 0)
 			(effects
 				(font
@@ -3955,8 +3955,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 74.676 80.772 0)
+		(property "PValue" "TL972IP"
+			(at 77.978 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4127,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 73.66 66.04 0)
 		(mirror x)
 		(unit 1)
@@ -4137,14 +4137,14 @@
 		(dnp no)
 		(uuid "653a734b-bd12-4192-a669-2bc513dff110")
 		(property "Reference" "U1"
-			(at 73.406 58.674 0)
+			(at 74.93 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 75.565 60.96 0)
 			(effects
 				(font
@@ -4154,7 +4154,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 78.74 66.04 0)
 			(effects
 				(font
@@ -4172,7 +4172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 78.105 66.04 0)
 			(effects
 				(font
@@ -4181,7 +4181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 78.105 66.04 0)
 			(effects
 				(font
@@ -4199,8 +4199,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 75.184 60.452 0)
+		(property "PValue" "TL972IP"
+			(at 76.962 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4241,7 +4241,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 209.55 86.36 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -4250,14 +4250,14 @@
 		(dnp no)
 		(uuid "65dc4be0-65ad-49c3-9ced-074766c5a086")
 		(property "Reference" "U3"
-			(at 208.788 79.248 0)
+			(at 210.566 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 211.455 91.44 0)
 			(effects
 				(font
@@ -4267,7 +4267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 214.63 86.36 0)
 			(effects
 				(font
@@ -4285,7 +4285,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 213.995 86.36 0)
 			(effects
 				(font
@@ -4294,7 +4294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 213.995 86.36 0)
 			(effects
 				(font
@@ -4312,8 +4312,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 210.566 80.772 0)
+		(property "PValue" "TL972IP"
+			(at 212.598 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5062,7 +5062,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 138.43 124.46 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -5071,7 +5071,7 @@
 		(dnp no)
 		(uuid "8f78dfd7-b454-4aab-a5eb-ba36e63c9eef")
 		(property "Reference" "U2"
-			(at 139.954 123.19 0)
+			(at 136.144 126.492 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5079,7 +5079,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 140.335 129.54 0)
 			(effects
 				(font
@@ -5089,7 +5089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 143.51 124.46 0)
 			(effects
 				(font
@@ -5107,7 +5107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 142.875 124.46 0)
 			(effects
 				(font
@@ -5116,7 +5116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 142.875 124.46 0)
 			(effects
 				(font
@@ -5134,13 +5134,12 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 139.954 125.73 0)
+		(property "PValue" "TL972IP"
+			(at 140.97 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "5"
@@ -5332,7 +5331,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 138.43 86.36 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -5341,14 +5340,14 @@
 		(dnp no)
 		(uuid "9d44c17a-9ddb-4861-9579-9c6ed4b4ea73")
 		(property "Reference" "U2"
-			(at 137.668 79.248 0)
+			(at 140.716 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 140.335 91.44 0)
 			(effects
 				(font
@@ -5358,7 +5357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 143.51 86.36 0)
 			(effects
 				(font
@@ -5376,7 +5375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 142.875 86.36 0)
 			(effects
 				(font
@@ -5385,7 +5384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 142.875 86.36 0)
 			(effects
 				(font
@@ -5403,8 +5402,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 139.446 80.772 0)
+		(property "PValue" "TL972IP"
+			(at 142.748 82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6247,7 +6246,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 217.17 124.46 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -6256,7 +6255,7 @@
 		(dnp no)
 		(uuid "c3814a3b-1135-4704-ae01-f13c44f1de34")
 		(property "Reference" "U3"
-			(at 218.694 123.19 0)
+			(at 214.884 126.492 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6264,7 +6263,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 219.075 129.54 0)
 			(effects
 				(font
@@ -6274,7 +6273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 222.25 124.46 0)
 			(effects
 				(font
@@ -6292,7 +6291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 221.615 124.46 0)
 			(effects
 				(font
@@ -6301,7 +6300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 221.615 124.46 0)
 			(effects
 				(font
@@ -6319,13 +6318,12 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 218.694 125.73 0)
+		(property "PValue" "TL972IP"
+			(at 219.71 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "5"
@@ -6561,7 +6559,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 209.55 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6570,14 +6568,14 @@
 		(dnp no)
 		(uuid "d336ec7c-b7ba-4fbe-bd82-5448ef43683d")
 		(property "Reference" "U3"
-			(at 208.026 58.42 0)
+			(at 210.312 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 211.455 71.12 0)
 			(effects
 				(font
@@ -6587,7 +6585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 214.63 66.04 0)
 			(effects
 				(font
@@ -6605,7 +6603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 213.995 66.04 0)
 			(effects
 				(font
@@ -6614,7 +6612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 213.995 66.04 0)
 			(effects
 				(font
@@ -6632,8 +6630,8 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 210.058 60.198 0)
+		(property "PValue" "TL972IP"
+			(at 212.344 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7057,7 +7055,7 @@
 		)
 	)
 	(symbol
-		(lib_id "amplifiers:1-0000529")
+		(lib_id "amplifiers:1-0001650")
 		(at 58.42 124.46 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -7066,7 +7064,7 @@
 		(dnp no)
 		(uuid "ff88ac41-7ffc-4f77-9b06-ef77502515a1")
 		(property "Reference" "U1"
-			(at 59.944 123.19 0)
+			(at 56.134 126.492 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7074,7 +7072,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1-0000529"
+		(property "Value" "1-0001650"
 			(at 60.325 129.54 0)
 			(effects
 				(font
@@ -7084,7 +7082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "amplifiers:1-0000529"
+		(property "Footprint" "amplifiers:1-0001650"
 			(at 63.5 124.46 0)
 			(effects
 				(font
@@ -7102,7 +7100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CMOS Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
+		(property "Description" "General Purpose Amplifier 2 Circuit Rail-to-Rail 8-PDIP"
 			(at 62.865 124.46 0)
 			(effects
 				(font
@@ -7111,7 +7109,7 @@
 				(hide yes)
 			)
 		)
-		(property "Internal Part Number" "1-0000529"
+		(property "Internal Part Number" "1-0001650"
 			(at 62.865 124.46 0)
 			(effects
 				(font
@@ -7129,13 +7127,12 @@
 				(hide yes)
 			)
 		)
-		(property "PValue" "LMC648"
-			(at 59.944 125.73 0)
+		(property "PValue" "TL972IP"
+			(at 60.96 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(pin "5"
