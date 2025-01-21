@@ -1,4 +1,4 @@
-24276140748130576
+24291972626220530
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95269,6 +95269,13 @@ Supercapacitor Horizontal Footprint 0.669" L x 0.335" W (17.00mm x 8.50mm)  Lead
 0
 2
 2
+comparators
+1-0001664
+8-SOIC
+SOIC SO
+0
+8
+8
 connectors
 1-0000001
 DC Female Jack SMD
@@ -95661,6 +95668,13 @@ connectors
 0
 3
 3
+connectors
+1-0001662
+11 Position Terminal Block | Pitch 0.138" (3.50mm)
+11 Position Terminal Block | Pitch 0.138" (3.50mm)
+0
+11
+11
 crystals_resonators
 1-0000041
 16MHz ±30ppm Crystal 20pF 40 Ohms HC-49/US
@@ -96893,6 +96907,13 @@ mosfets
 0
 8
 8
+mosfets
+1-0001665
+SOT-23
+SOT-23
+0
+3
+3
 motor_drivers
 1-0000168
 SMD 8-SO Power Pad
@@ -97201,6 +97222,13 @@ others
 0
 2
 2
+others
+1-0001668
+16-MSOP
+16-MSOP
+0
+16
+16
 pcb_graphics
 5mm qwiic logo
 
@@ -97376,6 +97404,13 @@ references
 0
 8
 8
+references
+1-0001663
+8-SOIC
+8-SOIC
+0
+8
+8
 regulators
 1-0000030
 SMD SOT-223-3
@@ -97446,6 +97481,13 @@ CMS SOT
 0
 4
 3
+regulators
+1-0000524
+SOT-23-5
+SOT-23-5
+0
+5
+5
 regulators
 1-0000555
 SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -98623,6 +98665,13 @@ resistor
 2
 2
 resistors_0603
+1-0001456
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
+resistor
+0
+2
+2
+resistors_0603
 1-0001523
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
 resistor
@@ -98701,6 +98750,20 @@ resistor
 2
 resistors_0603
 1-0001622
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
+resistor
+0
+2
+2
+resistors_0603
+1-0001666
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
+resistor
+0
+2
+2
+resistors_0603
+1-0001667
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
 resistor
 0
