@@ -1,4 +1,4 @@
-24291972626220530
+24311278067994849
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94765,6 +94765,20 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 0
 8
 8
+amplifiers
+1-0001674
+
+SOIC SO
+0
+8
+8
+amplifiers
+1-0001675
+
+SOIC SO
+0
+8
+8
 batteries
 1-0000131
 Battery Holder (Open) Coin, 16.0mm 1 Cell SMD (SMT) Tab
@@ -95269,6 +95283,13 @@ Supercapacitor Horizontal Footprint 0.669" L x 0.335" W (17.00mm x 8.50mm)  Lead
 0
 2
 2
+capacitors_th
+1-0001676
+
+
+0
+2
+2
 comparators
 1-0001664
 8-SOIC
@@ -95675,6 +95696,13 @@ connectors
 0
 11
 11
+connectors
+1-0001684
+
+903250008 
+0
+8
+8
 crystals_resonators
 1-0000041
 16MHz ±30ppm Crystal 20pF 40 Ohms HC-49/US
@@ -96129,6 +96157,13 @@ DO-214AA, SMB
 DO-214AA, SMB
 0
 2
+2
+diodes
+1-0001672
+
+SOT TO_SOT_SMD
+0
+3
 2
 displays
 1-0000835
@@ -96767,6 +96802,13 @@ Teensy 4.1 Custom TH Footprint
 0
 53
 53
+microcontrollers
+1-0001673
+16TSSOP
+16TSSOP
+0
+20
+20
 misc
 1-0001241
 SOT-23, Standard
@@ -96911,6 +96953,13 @@ mosfets
 1-0001665
 SOT-23
 SOT-23
+0
+3
+3
+mosfets
+1-0001670
+
+SOT TO_SOT_SMD
 0
 3
 3
@@ -97229,6 +97278,13 @@ others
 0
 16
 16
+others
+1-0001688
+
+
+0
+10
+10
 pcb_graphics
 5mm qwiic logo
 
@@ -98769,6 +98825,20 @@ resistor
 0
 2
 2
+resistors_0603
+1-0001683
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
+resistor
+0
+2
+2
+resistors_0603
+1-0001685
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal
+resistor
+0
+2
+2
 resistors_0805
 1-0000100
 Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal
@@ -99504,6 +99574,13 @@ SOT-363 SC-70-6
 0
 6
 6
+switches
+1-0000664
+
+16-TSSOP
+0
+16
+16
 switches
 1-0000786
 SPST TH Switch
