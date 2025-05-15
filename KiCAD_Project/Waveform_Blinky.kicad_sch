@@ -2858,7 +2858,25 @@
 			"LhECAAAAANJGmQEAAADsZTIRAgAAANyw5pkBAAAA7UgjEQIAAAAAAAAAAAAAAAAAAAAAAAAAtKFG"
 			"mQEAAADvIzURAgAAAJwprJkBAAAA8iM3EQIAAABAKqmWAQAAAPG8IxECAAAAUABMmQEAAADygScR"
 			"AgAAAAAAAAAAAAAAAAAAAAAAAAAA2USZAQAAAPzlKRECAAAApP9LmQEAAAD1gCARAgAAAAjIRpkB"
-			"AAAA9hg0EQ=="
+			"AAAA9hg0EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoAAAAAAAAA"
+			"ABwNLAEAAABnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADlnAAAAAAAAXoYAAAAAAAAA"
+			"gDFYAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOqcyEQIAAAAA"
+			"giYsAQAAALZZLBECAAAANAxEmQEAAADnbigRAgAAAMiwRJkBAAAAo+EyEQIAAACI11CZAQAAAKtB"
+			"MxECAAAAcO1EmQEAAAClNTERAgAAAHjrRJkBAAAAZnImEQIAAAA0aUSZAQAAAGffMBECAAAA7IJE"
+			"mQEAAADrGy4RAgAAALiwRJkBAAAAqQI2EQIAAAAwhUSZAQAAAGtqNRECAAAArMhEmQEAAAAr1DYR"
+			"AgAAACCu9ZkBAAAAbKAsEQIAAAAAAAAAAAAAAAAAAAAAAAAAvLlEmQEAAADunS4RAgAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAI7USZAQAAAPKgLBECAAAAQCqplgEAAADxvCMRAgAAAKQORJkBAAAAcg0sEQIA"
+			"AAAglUSZAQAAADPiIRECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZ0SZAQAA"
+			"ADZnNhECAA=="
 		)
 	)
 	(symbol
@@ -4492,6 +4510,24 @@
 				(hide yes)
 			)
 		)
+		(property "Internal Part Number" "0-0000000"
+			(at 218.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "0"
+			(at 218.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42925393-f9ba-418b-b3d6-8577f7cd0bbf")
 		)
@@ -5060,6 +5096,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal Part Number" "0-0000000"
+			(at 198.12 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "0"
 			(at 198.12 73.66 0)
 			(effects
 				(font
@@ -6120,6 +6174,24 @@
 				(hide yes)
 			)
 		)
+		(property "Internal Part Number" "0-0000000"
+			(at 195.58 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "0"
+			(at 195.58 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b72c664a-82ef-4262-9004-d54b8ea49b1f")
 		)
@@ -6384,6 +6456,24 @@
 				(hide yes)
 			)
 		)
+		(property "Internal Part Number" "0-0000000"
+			(at 218.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "0"
+			(at 218.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8df0231b-edc7-4f41-833f-73bcf3497d61")
 		)
@@ -6624,6 +6714,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 195.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Internal Part Number" "0-0000000"
+			(at 195.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Populated" "0"
 			(at 195.58 63.5 0)
 			(effects
 				(font

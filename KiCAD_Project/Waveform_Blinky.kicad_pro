@@ -599,7 +599,7 @@
           "group_by": false,
           "label": "Populated",
           "name": "Populated",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
