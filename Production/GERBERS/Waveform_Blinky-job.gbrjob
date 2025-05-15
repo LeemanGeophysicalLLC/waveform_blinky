@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1-rc1"
+      "Version": "9.0.1"
     },
-    "CreationDate": "2024-07-22T16:01:23-05:00"
+    "CreationDate": "2025-05-15T12:04:48-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Waveform_Blinky",
       "GUID": "57617665-666f-4726-9d5f-426c696e6b79",
-      "Revision": "1.0"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 76.3,
@@ -27,7 +27,7 @@
       "PadToPad": 0.1524,
       "PadToTrack": 0.1524,
       "TrackToTrack": 0.1524,
-      "MinLineWidth": 0.635,
+      "MinLineWidth": 0.508,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
